@@ -18,7 +18,7 @@ function Home() {
             </p>
 
             <div className="mt-10 flex items-center justify-center border rounded-full w-[50%]  hover:text-fuchsia-600 cursor-auto py-4">
-                <a href="https://github.com/arunabh22/student_registration_system" className="text-[35px] cursor-default flex">
+                <a href="https://github.com/arunabh22/student-registration-system" className="text-[35px] cursor-default flex">
                 <FaGithubSquare className="size-14 mr-2"/>
                 Source Code
                 </a>
